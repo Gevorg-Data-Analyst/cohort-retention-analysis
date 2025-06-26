@@ -46,7 +46,7 @@ Example result:
 
 Shows how many players remained active each month after joining.
 
-![Cohort Heatmap](cohort_heatmap.png)
+![Cohort Heatmap](Cohort_heatmap.png)
 
 ---
 
@@ -54,7 +54,7 @@ Shows how many players remained active each month after joining.
 
 Line chart showing how retention drops as cohorts age.
 
-![Retention Over Time](retention_over_time.png)
+![Retention Over Time](cohort_retention_over_time.png)
 
 ---
 
